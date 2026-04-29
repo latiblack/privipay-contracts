@@ -1,3 +1,4 @@
 forge-std/=lib/forge-std/src/
-@fhevm/solidity/=lib/fhevm/library-solidity/
 fhevm/=lib/fhevm/
+@fhevm/solidity/=lib/fhevm/library-solidity/
+encrypted-types/=lib/fhevm/library-solidity/lib/encrypted-types/
